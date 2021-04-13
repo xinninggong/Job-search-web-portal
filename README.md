@@ -7,3 +7,15 @@ We choose the Career and Development module and decided to create a job portal p
 - Use case model 
 - Functions outline 
 - Visual preview 
+
+We got the approval and went on to design a prototype in adobe XD. 
+
+## Adobe XD 
+- We have designed a mobile and desktop GUI of our main use cases 
+- It can be a bit difficult to navigate as there are many artboards however, a demonstration can be seen in the final deliverable. 
+
+## Final Deliverable 
+The final deliverable consists of: 
+- System architecture 
+- Prototype Documentation with functionalities, data outline, demonstration and test plan for each Use Case. 
+- Description of design principles (using Microsoft's user centred design principles) present in our prototype
